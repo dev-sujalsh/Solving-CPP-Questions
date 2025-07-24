@@ -14,4 +14,6 @@ int main() {
 	cout << "Size of float " << sizeof(f_num) << endl;
 	cout << "Size of double " << sizeof(d_num) << endl;
 	cout << "Size of char " << sizeof(ch) << endl;
+
+	return 0;
 }
