@@ -6,9 +6,9 @@ using namespace std;
 
 void EvenOrOdd(int a) {
 	if (a % 2 == 0)
-		cout << "It's an Even no.";
+		cout << a << " is an Even number";
 	else
-		cout << "It's an Odd no.";
+		cout << a << " is an Odd number";
 }
 
 int main() {
